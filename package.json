@@ -1,6 +1,6 @@
 {
-  "name": "twui",
-  "version": "0.0.1",
+  "name": "@wangkris03/twui",
+  "version": "0.0.2",
   "types": "lib/index.ts",
   "exports": {
     "import": "./lib/index.ts",
@@ -42,5 +42,22 @@
     "typescript": "^4.6.4",
     "vite": "^3.0.0",
     "vite-react-jsx": "^1.1.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wangkris03/twui.git"
+  },
+  "keywords": [
+    "ui",
+    "ux",
+    "twui",
+    "tailwindcss"
+  ],
+  "author": "wangkris03",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wangkris03/twui/issues"
+  },
+  "homepage": "https://github.com/wangkris03/twui#readme",
+  "description": ""
 }
